@@ -72,7 +72,12 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
 ### Recommandation business
 Utiliser les clusters pour alimenter les sections *“You may also like”* et les topics pour enrichir les filtres et la navigation.
 
-## 7. Organisation du projet
+## 7. Installations des librairies Python
+```text
+python -m pip install -r requirements.txt
+```
+
+## 8. Organisation du projet
 
 ```text
 .
